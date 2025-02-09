@@ -12,7 +12,7 @@ public class TestJavaAuto extends OpMode {
     @Override
     public void init() {
 
-        telemetry.addData("Init", "is successssss");
+        telemetry.addData("Init", "is done");
         telemetry.update();
     }
 
